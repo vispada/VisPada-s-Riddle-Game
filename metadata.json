@@ -1,0 +1,7 @@
+{
+  "name": "AI Scavenger Hunt",
+  "description": "A digital scavenger hunt game powered by AI. Solve riddles by taking pictures of the correct objects. The AI will verify if your picture matches the riddle's answer.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
